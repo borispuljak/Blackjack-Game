@@ -1,1 +1,1 @@
-# Blackjack-Game
+BlackJack game player vs dealer.
